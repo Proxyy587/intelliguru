@@ -10,7 +10,7 @@ export default function Home() {
 					<p className="text-lg">
 						Transforming the way you learn with AI-powered education
 					</p>
-					<Link href="/login">
+					<Link href="/sign-in">
 						<Button className="mt-4">Get Started</Button>
 					</Link>
 				</div>
